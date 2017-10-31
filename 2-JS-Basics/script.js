@@ -1,3 +1,4 @@
+/*
 var firstName = 'John';
 console.log(firstName);
 
@@ -6,4 +7,6 @@ console.log(lastName);
 
 var age = 26;
 console.log(age);
+
+*/
 
